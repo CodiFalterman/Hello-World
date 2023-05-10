@@ -1,2 +1,2 @@
 # Hello-World
-Quick refresher for myself on how to use Git-Hub!
+Quick refresher for myself on how to use Github!
